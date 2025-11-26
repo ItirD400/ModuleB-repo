@@ -8,3 +8,13 @@ C:\Users\user\OneDrive\工作區\處理中\GitSubmoduleDemo\MainApp\Modules\Modu
 C:\Users\user\OneDrive\工作區\處理中\GitSubmoduleDemo\MainApp\Modules\ModuleB\obj\Debug\net8.0\refint\ModuleB.dll
 C:\Users\user\OneDrive\工作區\處理中\GitSubmoduleDemo\MainApp\Modules\ModuleB\obj\Debug\net8.0\ModuleB.pdb
 C:\Users\user\OneDrive\工作區\處理中\GitSubmoduleDemo\MainApp\Modules\ModuleB\obj\Debug\net8.0\ref\ModuleB.dll
+C:\Users\user\Downloads\MainApp-repo\Modules\ModuleB\bin\Debug\net8.0\ModuleB.deps.json
+C:\Users\user\Downloads\MainApp-repo\Modules\ModuleB\bin\Debug\net8.0\ModuleB.dll
+C:\Users\user\Downloads\MainApp-repo\Modules\ModuleB\bin\Debug\net8.0\ModuleB.pdb
+C:\Users\user\Downloads\MainApp-repo\Modules\ModuleB\obj\Debug\net8.0\ModuleB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\MainApp-repo\Modules\ModuleB\obj\Debug\net8.0\ModuleB.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\MainApp-repo\Modules\ModuleB\obj\Debug\net8.0\ModuleB.sourcelink.json
+C:\Users\user\Downloads\MainApp-repo\Modules\ModuleB\obj\Debug\net8.0\ModuleB.dll
+C:\Users\user\Downloads\MainApp-repo\Modules\ModuleB\obj\Debug\net8.0\refint\ModuleB.dll
+C:\Users\user\Downloads\MainApp-repo\Modules\ModuleB\obj\Debug\net8.0\ModuleB.pdb
+C:\Users\user\Downloads\MainApp-repo\Modules\ModuleB\obj\Debug\net8.0\ref\ModuleB.dll
